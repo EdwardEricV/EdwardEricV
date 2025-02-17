@@ -41,7 +41,7 @@
 
 ## 📫 Como Me Encontrar  
 
-📧 **E-mail:** [edward@example.com](mailto:eric199703@hotmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/edward-eric](linkedin.com/in/edward-eric-von-osterroht-5539641a5)  
+📧 **E-mail:** [eric199703@hotmail.com](mailto:eric199703@hotmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/edward-eric](https://www.linkedin.com/in/edward-eric-von-osterroht-5539641a5/)  
 
 ---
