@@ -35,7 +35,7 @@
 
 ## 📊 Estatísticas do GitHub  
 
-![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
+![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardericv&show_icons=true&theme=radical)  
 
 ---
 
