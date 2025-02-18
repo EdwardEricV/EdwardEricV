@@ -4,8 +4,8 @@
 💻 **Desenvolvedor**  
 🚀 **Atualmente trabalhando em:**  
 - 🌱 Um jogo educacional acessível para estudantes com TEA
-- 📡 Um pluviometro
-- 📡 Um monitorador de remedio para pessoas idosas
+- 📡 Um pluviômetro
+- 📡 Um monitorador de remédio para pessoas idosas
 
 ---
 ## 🛠️ Tecnologias e Ferramentas  
