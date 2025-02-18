@@ -3,7 +3,7 @@
 🎓 **Engenheiro da Computação** | 📍 **UNIVALI - Universidade do Vale do Itajaí**  
 💻 **Desenvolvedor**  
 🚀 **Atualmente trabalhando em:**  
-- 🌱 Um jogo educacional acessível para estudantes com TEA- 
+- 🌱 Um jogo educacional acessível para estudantes com TEA
 - 📡 Um pluviometro
 - 📡 Um monitorador de remedio para pessoas idosas
 
@@ -22,13 +22,13 @@
 
 ## 📌 Projetos em Destaque  
 
-### 🎮 [Jogo Educacional para Estudantes com TEA](https://github.com/seu-usuario/jogo-educacional-tea)  
+### 🎮 [Jogo Educacional para Estudantes com TEA](https://github.com/EdwardEricV/...)  
 🧩 Um jogo acessível para ajudar crianças no aprendizado de matemática usando **interfaces naturais**.  
 
-### 🛰️ [Monitor de Qualidade do Ar com ESP32](https://github.com/seu-usuario/monitor-ar-esp32)  
-📡 Um sistema para monitoramento de partículas poluentes em tempo real, enviando dados para o **ThingSpeak**.  
+### 🛰️ [Pluviômetro com ESP32](https://github.com/EdwardEricV/pluviometro)  
+📡 Um sistema para monitoramento de chuva em tempo real, enviando dados para o **ThingSpeak**.  
 
-### 🛰️ [Monitor de Qualidade do Ar com ESP32](https://github.com/seu-usuario/monitor-ar-esp32)  
+### 🛰️ [Caixa de remédio com ESP32](https://github.com/EdwardEricV/Caixa-de-remedio-inteligente)  
 📡 Um sistema para feedback visual e sonoro a pessoas idosas não esquecerem de tomar seu remedio, enviando mensagem para o **Whatsapp**.  
 
 ---
