@@ -4,7 +4,7 @@
 💻 **Desenvolvedor**  
 🚀 **Atualmente trabalhando em:**  
 - 🌱 Um jogo educacional acessível para estudantes com TEA- 
-- 📡 Um monitorador de qualidade do ar
+- 📡 Um pluviometro
 - 📡 Um monitorador de remedio para pessoas idosas
 
 ---
